@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+google-genai
+python-dotenv
+pandas
+openpyxl
+streamlit
+httpx==0.27.0
